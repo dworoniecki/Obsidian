@@ -1,3 +1,7 @@
+---
+tags: [cheat-sheet, excel, shortcuts, mac]
+---
+
 # Excel Shortcuts Cheatsheet (Mac)
 
 Essential keyboard shortcuts for working efficiently in Microsoft Excel on Mac.

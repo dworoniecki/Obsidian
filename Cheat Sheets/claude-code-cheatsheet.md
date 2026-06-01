@@ -1,3 +1,7 @@
+---
+tags: [cheat-sheet, ai, claude-code, cli]
+---
+
 # Claude Code Cheatsheet
 
 Quick reference for Claude Code CLI commands, slash commands, keyboard shortcuts, hooks, MCP, and settings.

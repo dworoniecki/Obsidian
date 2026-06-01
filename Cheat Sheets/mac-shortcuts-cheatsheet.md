@@ -1,3 +1,7 @@
+---
+tags: [cheat-sheet, mac, shortcuts]
+---
+
 # Mac Shortcuts Cheatsheet
 
 Essential keyboard shortcuts and gestures for macOS, including transitions from Windows.

@@ -1,3 +1,7 @@
+---
+tags: [cheat-sheet, markdown, writing]
+---
+
 # Markdown Cheatsheet
 
 A practical reference for Markdown syntax, including GitHub Flavored Markdown (GFM) extensions.

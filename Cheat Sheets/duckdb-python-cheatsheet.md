@@ -1,6 +1,32 @@
+---
+tags: [cheat-sheet, duckdb, python, sql]
+---
+
 # DuckDB Python Cheatsheet
 
 A practical guide for using DuckDB in Python, with examples using lending/financial data scenarios.
+
+## Contents
+
+- [[#Common Workflows]]
+- [[#Setup & Imports]]
+- [[#Fetching Results]]
+- [[#Reading Data]]
+- [[#Writing Data]]
+- [[#Creating and Managing Tables]]
+- [[#Parameterized Queries]]
+- [[#Inspecting Data]]
+- [[#DuckDB-Specific SQL Extensions]]
+- [[#Aggregations]]
+- [[#Window Functions]]
+- [[#Joins]]
+- [[#Date & Time Functions]]
+- [[#String Functions]]
+- [[#List / Array Functions]]
+- [[#Struct / Map Functions]]
+- [[#JSON Functions]]
+- [[#Extensions]]
+- [[#Key Differences vs Standard SQL]]
 
 ---
 

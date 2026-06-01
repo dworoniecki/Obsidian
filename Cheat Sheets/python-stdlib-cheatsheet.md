@@ -1,6 +1,36 @@
+---
+tags: [cheat-sheet, python, standard-library]
+---
+
 # Python Standard Library Cheatsheet
 
 Quick reference for commonly used modules that ship with Python — no install required.
+
+## Contents
+
+- [[#Common Workflows]]
+- [[#collections]]
+- [[#csv]]
+- [[#datetime]]
+- [[#pathlib]]
+- [[#dataclasses]]
+- [[#itertools]]
+- [[#json]]
+- [[#logging]]
+- [[#os]]
+- [[#re]]
+- [[#random]]
+- [[#shutil]]
+- [[#sys]]
+- [[#types]]
+- [[#decimal]]
+- [[#io]]
+- [[#subprocess]]
+- [[#functools]]
+- [[#enum]]
+- [[#statistics]]
+- [[#time]]
+- [[#math]]
 
 ---
 

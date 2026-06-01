@@ -1,3 +1,7 @@
+---
+tags: [cheat-sheet, ai, cortex, cli]
+---
+
 # Cortex Code Cheatsheet
 
 Quick reference for the Cortex Code CLI (`cortex`) and `snow cortex` commands, slash commands, keyboard shortcuts, hooks, MCP, and settings.

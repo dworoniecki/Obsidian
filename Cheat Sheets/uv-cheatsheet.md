@@ -1,3 +1,7 @@
+---
+tags: [cheat-sheet, python, uv, package-management]
+---
+
 # uv Cheatsheet
 
 Quick reference for `uv` — a fast Python package and project manager written in Rust.

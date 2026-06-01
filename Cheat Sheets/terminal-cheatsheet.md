@@ -1,14 +1,43 @@
+---
+tags: [cheat-sheet, terminal, bash, cli]
+---
+
 # Terminal Commands Cheatsheet for Data Engineering
+
+## Contents
+
+- [[#Common Workflows]]
+- [[#History & Command Tricks]]
+- [[#Keyboard Shortcuts]]
+- [[#Navigation Commands]]
+- [[#File Operations]]
+- [[#File Viewing Commands]]
+- [[#Text Processing Commands]]
+- [[#System Monitoring Commands]]
+- [[#Process Management]]
+- [[#File Permissions]]
+- [[#Help and Information]]
+- [[#Package Management (Mac)]]
+- [[#Environment and Variables]]
+- [[#Git Commands]]
+- [[#SSH Commands]]
+- [[#Network Tools]]
+- [[#Advanced Text Editing]]
+- [[#Scheduling]]
+- [[#Clipboard Tools]]
+- [[#Aliases Starter Pack (add to ~/.bashrc or ~/.zshrc)|Aliases Starter Pack]]
+- [[#tmux — Persistent Terminal Sessions|tmux]]
+- [[#fzf — Fuzzy Finder|fzf]]
 
 ## Common Workflows
 
-| Command | Description | Example | Use Case |
-|---------|-------------|---------|----------|
-| `\|` (pipe) | Chain commands | `grep ERROR log \| wc -l` | Count error lines |
-| `&&` | Run if previous succeeds | `dbt run && dbt test` | Run tests after models |
-| `\|\|` | Run if previous fails | `command1 \|\| echo "Failed"` | Error handling |
-| `>` | Redirect output to file | `ls > file_list.txt` | Save command output |
-| `>>` | Append output to file | `echo "new line" >> log.txt` | Add to existing file |
+| Command     | Description              | Example                       | Use Case               |
+| ----------- | ------------------------ | ----------------------------- | ---------------------- |
+| `\|` (pipe) | Chain commands           | `grep ERROR log \| wc -l`     | Count error lines      |
+| `&&`        | Run if previous succeeds | `dbt run && dbt test`         | Run tests after models |
+| `\|\|`      | Run if previous fails    | `command1 \|\| echo "Failed"` | Error handling         |
+| `>`         | Redirect output to file  | `ls > file_list.txt`          | Save command output    |
+| `>>`        | Append output to file    | `echo "new line" >> log.txt`  | Add to existing file   |
 
 ### Process Monitoring (top & htop)
 ```bash

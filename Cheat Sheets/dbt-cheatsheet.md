@@ -1,3 +1,7 @@
+---
+tags: [cheat-sheet, dbt, sql, data-engineering]
+---
+
 # dbt Cheatsheet
 
 Quick reference for dbt CLI commands, node selection, flags, and common workflows.

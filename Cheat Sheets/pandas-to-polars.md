@@ -1,6 +1,42 @@
+---
+tags: [cheat-sheet, python, pandas, polars, data]
+---
+
 # Pandas to Polars Cheatsheet
 
 A practical guide for transitioning from pandas to Polars, with examples using lending/financial data scenarios.
+
+## Contents
+
+- [[#Common Workflows]]
+- [[#Setup & Imports]]
+- [[#Reading Data]]
+- [[#Basic Inspection]]
+- [[#Selecting Columns]]
+- [[#Subsetting Rows and Columns Together]]
+- [[#Filtering Rows]]
+- [[#Adding/Modifying Columns]]
+- [[#Renaming Columns]]
+- [[#Sorting]]
+- [[#Groupby & Aggregations]]
+- [[#Joins]]
+- [[#Handling Missing Values]]
+- [[#String Operations]]
+- [[#Date Operations]]
+- [[#Window Functions]]
+- [[#GroupBy Transform]]
+- [[#Unique Values & Counts]]
+- [[#Conditional Logic (if/else)]]
+- [[#Pivot Tables]]
+- [[#Melt / Unpivot (Wide to Long Format)]]
+- [[#Concatenating DataFrames]]
+- [[#Dropping Columns]]
+- [[#Dropping Duplicates]]
+- [[#Writing Data]]
+- [[#Key Differences to Remember]]
+- [[#Performance Tips]]
+- [[#Converting Between Pandas and Polars]]
+- [[#When to Use Which]]
 
 ---
 
